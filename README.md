@@ -1,10 +1,6 @@
 # Diamond-Kebab
 A Telegram bot based on LLM for a restaurant named Diamond Kebab 
 
-<h1>MEHBOT</h1>
-
-<h2>A LLM based Personal Informations bot that could be used for any informations</h2>
-
 <b><p>Run Project OR Deploy to Server</p></b>
 <i>Follow these steps</i>
 
@@ -23,5 +19,5 @@ A Telegram bot based on LLM for a restaurant named Diamond Kebab
   <li>For more details watch the video...</li>
 </ul>
 <a href="https://www.youtube.com/watch?v=wq962dxh8HU" target="_blank">
- <img src="thumbnail.jpeg" alt="Watch the video" />
+ <img src="Telegram Bot Thumbnail.jpeg" alt="Watch the video" />
 </a>
