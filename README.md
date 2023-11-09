@@ -19,5 +19,5 @@ A Telegram bot based on LLM for a restaurant named Diamond Kebab
   <li>For more details watch the video...</li>
 </ul>
 <a href="https://www.youtube.com/watch?v=wq962dxh8HU" target="_blank">
- <img src="Telegram Bot Thumbnail.jpeg" alt="Watch the video" />
+ <img src="teletubbies.jpeg" alt="Watch the video" />
 </a>
